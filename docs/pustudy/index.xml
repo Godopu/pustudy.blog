@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Godopu on pustudy.blog</title>
-    <link>/docs/pustudy/</link>
+    <link>/pustudy.blog/docs/pustudy/</link>
     <description>Recent content in Godopu on pustudy.blog</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/docs/pustudy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pustudy.blog/docs/pustudy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/docs/pustudy/cpp_programming_tutorial_vscode/</link>
+      <link>/pustudy.blog/docs/pustudy/cpp_programming_tutorial_vscode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/pustudy/cpp_programming_tutorial_vscode/</guid>
+      <guid>/pustudy.blog/docs/pustudy/cpp_programming_tutorial_vscode/</guid>
       <description>WSL (Windows Sub System for Linux) 설치  appwiz.cpl 실행   프로그램 및 기능에서 wRindows 기능 켜기/
  끄기를 통해 Windows Sub System 설치
  재부팅이 필요하니 부팅전에 저장할 파일들은 모두 저장해주세요~   windows store에서 ubuntu 설치  windows 키를 누른 후 store 검색   ubuntu app 설치   ubuntu app 실행 및 ID와 Password 설정   ubuntu update
@@ -23,10 +23,10 @@
     
     <item>
       <title>cpp</title>
-      <link>/docs/pustudy/cpp/</link>
+      <link>/pustudy.blog/docs/pustudy/cpp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/docs/pustudy/cpp/</guid>
+      <guid>/pustudy.blog/docs/pustudy/cpp/</guid>
       <description>WSL (Windows Sub System for Linux) 설치  appwiz.cpl 실행   프로그램 및 기능에서 wRindows 기능 켜기/
  끄기를 통해 Windows Sub System 설치
  재부팅이 필요하니 부팅전에 저장할 파일들은 모두 저장해주세요~   windows store에서 ubuntu 설치  windows 키를 누른 후 store 검색   ubuntu app 설치   ubuntu app 실행 및 ID와 Password 설정   ubuntu update
