@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pustudy.blog</title>
+    <link>/pustudy.blog/docs/pustudy/cpp_programming_tutorial_vscode/</link>
+    <description>Recent content on pustudy.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/pustudy.blog/docs/pustudy/cpp_programming_tutorial_vscode/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>cpp</title>
+      <link>/pustudy.blog/docs/pustudy/cpp_programming_tutorial_vscode/cpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pustudy.blog/docs/pustudy/cpp_programming_tutorial_vscode/cpp/</guid>
+      <description>WSL (Windows Sub System for Linux) 설치  appwiz.cpl 실행   프로그램 및 기능에서 wRindows 기능 켜기/
+ 끄기를 통해 Windows Sub System 설치
+ 재부팅이 필요하니 부팅전에 저장할 파일들은 모두 저장해주세요~   windows store에서 ubuntu 설치  windows 키를 누른 후 store 검색   ubuntu app 설치   ubuntu app 실행 및 ID와 Password 설정   ubuntu update
+ 다음 명령어를 통해 ubuntu를 업데이트 한다.</description>
+    </item>
+    
+  </channel>
+</rss>
